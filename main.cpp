@@ -1,4 +1,5 @@
 #include <iostream>
+#include "include/Persona.h"
 
 using namespace std;
 
